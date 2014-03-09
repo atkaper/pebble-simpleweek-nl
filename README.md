@@ -23,7 +23,7 @@ https://github.com/atkaper/pebble-simpleweek-nl/raw/master/releases/simpleweek.p
 
 Got easiere with SDK 2.0 ;-)
 
-pebble build
-pebble install
+    pebble build
+    pebble install
 
 
