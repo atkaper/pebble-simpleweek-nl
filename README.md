@@ -2,6 +2,9 @@
 
 ![Action shot](https://raw.github.com/atkaper/pebble-simpleweek-nl/master/releases/simpleweek.png)
 
+Note: converted to firmware/sdk 2.0, as of March 9. 2014.
+
+
 Based on Simplicity & Complexity.
 
 
