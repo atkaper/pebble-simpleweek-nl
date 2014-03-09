@@ -21,7 +21,7 @@ https://github.com/atkaper/pebble-simpleweek-nl/raw/master/releases/simpleweek.p
 
 ### Building and installing the watch face
 
-Got easiere with SDK 2.0 ;-)
+Got easier with SDK 2.0 ;-)
 
     pebble build
     pebble install
