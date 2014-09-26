@@ -3,7 +3,7 @@
 ![Action shot](https://raw.github.com/atkaper/pebble-simpleweek-nl/master/releases/simpleweek.png)
 
 Note: converted to firmware/sdk 2.0, as of March 9. 2014.
-
+Note: small update, to compile with https://cloudpebble.net/, as of September 26. 2014. Version changed from 2.0.0 to 2.1.
 
 Based on Simplicity & Complexity.
 
