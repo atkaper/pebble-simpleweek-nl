@@ -1,33 +1,37 @@
 {
-  "uuid": "daeca1db-bde5-e1fc-a7c5-33d2ad7e4676",
-  "shortName": "SimpleWeek",
-  "longName": "SimpleWeek",
-  "companyName": "TKA based on Complexity",
-  "versionCode": 2,
-  "versionLabel": "2.0.0",
-  "watchapp": {
-    "watchface": true
-  },
-  "appKeys": {},
-  "resources": {
-    "media": [
-      {
-        "menuIcon": true,
-        "type": "png",
-        "name": "IMAGE_MENU_ICON",
-        "file": "images/menu_icon_simplicity.png"
-      },
-      {
-        "type": "font",
-        "name": "FONT_ROBOTO_CONDENSED_21",
-        "file": "fonts/Roboto-Condensed.ttf"
-      },
-      {
-        "characterRegex": "[:0-9]",
-        "type": "font",
-        "name": "FONT_ROBOTO_BOLD_SUBSET_49",
-        "file": "fonts/Roboto-Bold.ttf"
-      }
-    ]
-  }
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "TKA based on Complexity",
+    "longName": "SimpleWeek",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "characterRegex": "[:0-9]",
+                "file": "fonts/Roboto-Bold.ttf",
+                "name": "FONT_ROBOTO_BOLD_SUBSET_49",
+                "type": "font"
+            },
+            {
+                "file": "fonts/Roboto-Condensed.ttf",
+                "name": "FONT_ROBOTO_CONDENSED_21",
+                "type": "font"
+            },
+            {
+                "file": "images/menu_icon_simplicity.png",
+                "menuIcon": true,
+                "name": "IMAGE_MENU_ICON",
+                "type": "png"
+            }
+        ]
+    },
+    "shortName": "SimpleWeek",
+    "uuid": "daeca1db-bde5-e1fc-a7c5-33d2ad7e4676",
+    "versionCode": 2,
+    "versionLabel": "2.1",
+    "watchapp": {
+        "watchface": true
+    }
 }
